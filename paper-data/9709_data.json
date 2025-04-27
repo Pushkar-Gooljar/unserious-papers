@@ -1,28 +1,9 @@
 {
     "subjectName": "Mathematics",
     "subjectCode": "9709",
-    "startYear": 2001,
+    "startYear": 2002,
     "endYear": 2024,
-    "2001": {
-        "availableSeries": [
-            "w"
-        ],
-        "questionPapersBySeries": {
-            "w": [
-                2,
-                4,
-                6
-            ]
-        },
-        "markSchemesBySeries": {
-            "w": [
-                1,
-                2,
-                4,
-                6
-            ]
-        }
-    },
+
     "2002": {
         "availableSeries": [
             "s",
