@@ -1,24 +1,8 @@
 {
     "subjectName": "Chemistry",
     "subjectCode": "9701",
-    "startYear": 2001,
+    "startYear": 2002,
     "endYear": 2024,
-    "2001": {
-        "availableSeries": [
-            "w"
-        ],
-        "questionPapersBySeries": {
-            "w": [
-                3
-            ]
-        },
-        "markSchemesBySeries": {
-            "w": [
-                2,
-                3
-            ]
-        }
-    },
     "2002": {
         "availableSeries": [
             "s",
